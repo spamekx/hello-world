@@ -1,2 +1,3 @@
 # hello-world
-hello-world testi testi public public
+OPIS: hello-world testi testi public public
+plik - plaski teksotwy edytowalny w github
